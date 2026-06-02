@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Plantas del Sureste</string>
+    <string name="actividad2_titulo">Actividad de Video</string>
+    <string name="video_de_la_planta">Video de la planta</string>
+    <string name="abrir_video_en_youtube">Abrir video en YouTube</string>
+    <string name="reproducir_video_embebido">Reproducir video</string>
+    <string name="no_se_pudo_abrir_video">No se pudo abrir el video</string>
+    <string name="video_no_permite_embebido">Este video no permite reproducción embebida. Se abrirá en YouTube.</string>
+    <string name="ir_a_actividad1">Volver</string>
+</resources>

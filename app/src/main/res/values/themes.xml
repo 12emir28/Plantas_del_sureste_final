@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema para Compose (Principal) -->
+    <style name="Theme.Plantas" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Tema para Actividad Clásica (Actividad 2) con colores de la App -->
+    <style name="Theme.Plantas.Video" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryVariant">@color/primary_green</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="android:windowBackground">@color/surface_light</item>
+        <item name="android:statusBarColor">@color/primary_green</item>
+    </style>
+</resources>
